@@ -19,7 +19,7 @@ public class HotCards {
     private String validez;
     private String marcaTiempo;
     private String accion;
-    private String comentarion;
+    private String comentario;
     private String usuario;
 
 }
